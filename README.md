@@ -4,3 +4,4 @@
 - [scottszb1987/LeetCodeInCSharp](https://github.com/scottszb1987/LeetCodeInCSharp) star 0.5k
 - [strengthen/LeetCode](https://github.com/strengthen/LeetCode) LeetCode Solution by your programming language star 0.2k
 - [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)start 36K
+- https://github.com/shangzb87/LeetCodeInCSharp s503
